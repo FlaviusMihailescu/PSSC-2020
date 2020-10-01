@@ -1,6 +1,17 @@
+Platforma StackOverflow este utilizata de foarte multi programatori, de persoane care sunt la inceput in domeniul de programare si isi doresc sa acumuleze
+cat mai multe cunostinte in acest domeniu, dar si de persoane care care doresc sa imaprataseasaca cunostinte despre programare, ajutandu-i
+astefel pe altii cu mai putina experienta in rezolvarea problemelor de IT.
+Platforma este una publica.
+
+Utilizand sectiunea de sing up, utilizatorii isi pot crea un cont. Mai exista si varianta conectarii utilizand conturile deja create pe 
+urmatoarele platforme: Facebook, Google sau GitHub.
+
 StackOverflow Functionalitati:
-1. Private Q&A: Gasirea rapida si imopartasirea cunostintelor 
-2. Talent Solution: Gasirea candidatului perfect pentru o echipa
-3. Advertsing platform: Accelereaza descoperire produselor sau serficilor tale facandu-le
-publicitate
-4. Oportunitati de gasire a unui job
+1. Private Q&A: Gasirea rapida a raspunsurilor si impartasirea cunostintelor. Asa cum am descirs si mai sus, utilizatorii pot posta intrebari
+sau oferii raspunsuri cu privire la diferite domenii de programare. De asemenea exista optiune de filtrare cum ar fi: cea mai votata intrebare,
+cele mai noi intrebari, etc
+2. Talent Solution: Gasirea candidatului perfect pentru o echipa. Daca ai ca scop  dezvoltarea unui proiect in domeniul IT si esti in 
+cautarea unor membrii de echipa dedicati si priceputi, ii poti cauta pe acesta platforma
+3. Advertsing platform: Accelereaza descoperire produselor sau serficilor tale facandu-le publicitate
+4. Oportunitati de gasire a unui job. Si aici se pot cauta job-uri filtrand rezultatele cautarii dupa diferite criterii: limajul de programare,
+salariul anual, experienta, etc
