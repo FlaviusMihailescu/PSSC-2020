@@ -1,0 +1,6 @@
+	Cointextul de autentificare in cadrul aplicatiei Stack Overflow
+*Utilizatorul poate alege dintre optiunile de Login sau Sign up
+	-Pentru Login: se poate conecta utilizand platformele: Facebook, google, Git sau contul din aplicatia Stack Overflow creat anterior
+	-Pentru Signup: se poate de semenea utilizand platformele de mai sus, dar poate de asemenea utiliza o simpla adresa de email
+		-- Dupa introducerea datelor, se declanseaza un proces de verificare in spate
+*Datele pot fi acceptate, sau refuzate. Daca datele au fost acceptate, utilizatorul este autentificat si se popate bucura de beneficile aplicatiei

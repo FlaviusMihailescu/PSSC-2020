@@ -1,0 +1,7 @@
+	Contextul lansarii unei intrebari de catre un utilizator
+* Un utilizator al aplicatiei constituie o intrebare dintr-un anumit domeniu al progarmarii.
+* Acest lucru va trigger-ui un proces in spate. 
+* Proces care inseamna ca intrebarea poate fi revizuita sau acceptata. 
+* Daca este acceptata, aceasta este publicata. 
+* Dupa ce a fost publicata, alti utilizatori ai aplicatiei pot fi notificati daca au interes pe topicul in care se incadreaza intrebarea. 
+			

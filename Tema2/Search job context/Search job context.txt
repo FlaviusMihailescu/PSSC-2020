@@ -1,0 +1,5 @@
+	Contextul de cautare a unui job
+* Utilizatorul introduce in bara de cautare numele/tipul jobului dorit, utilizand (daca doreste) diferite filtre de cautare
+* In urma cautarii se declanseaza un proces in spate 
+* Dupa finalizarea procesului, utilizatorul v-a primi rezultatele cautate(daca acestea exista si corespund cautarii)
+* De asemenea companiile alea caror joburi corespunde cautarii vor fi notificate
