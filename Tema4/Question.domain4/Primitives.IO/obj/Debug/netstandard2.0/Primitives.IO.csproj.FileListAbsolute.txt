@@ -1,0 +1,27 @@
+E:\Scoala\Anul4\PPSC\PSSC-2020-master\exemple\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+E:\Scoala\Anul4\PPSC\PSSC-2020-master\exemple\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+E:\Scoala\Anul4\PPSC\PSSC-2020-master\exemple\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+E:\Scoala\Anul4\PPSC\PSSC-2020-master\exemple\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojResolveAssemblyReference.cache
+E:\Scoala\Anul4\PPSC\PSSC-2020-master\exemple\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+E:\Scoala\Anul4\PPSC\PSSC-2020-master\exemple\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+E:\Scoala\Anul4\PPSC\PSSC-2020-master\exemple\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+E:\Scoala\Anul4\PPSC\PSSC-2020-master\exemple\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+E:\Scoala\Anul4\PPSC\PSSC-2020-master\exemple\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb
+C:\Users\Flavius Mihailescu\Desktop\Question.domain\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+C:\Users\Flavius Mihailescu\Desktop\Question.domain\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+C:\Users\Flavius Mihailescu\Desktop\Question.domain\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+C:\Users\Flavius Mihailescu\Desktop\Question.domain\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojResolveAssemblyReference.cache
+C:\Users\Flavius Mihailescu\Desktop\Question.domain\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+C:\Users\Flavius Mihailescu\Desktop\Question.domain\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+C:\Users\Flavius Mihailescu\Desktop\Question.domain\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+C:\Users\Flavius Mihailescu\Desktop\Question.domain\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+C:\Users\Flavius Mihailescu\Desktop\Question.domain\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb
+C:\Users\Flavius Mihailescu\Desktop\Question.domain4\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+C:\Users\Flavius Mihailescu\Desktop\Question.domain4\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+C:\Users\Flavius Mihailescu\Desktop\Question.domain4\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+C:\Users\Flavius Mihailescu\Desktop\Question.domain4\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojResolveAssemblyReference.cache
+C:\Users\Flavius Mihailescu\Desktop\Question.domain4\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+C:\Users\Flavius Mihailescu\Desktop\Question.domain4\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+C:\Users\Flavius Mihailescu\Desktop\Question.domain4\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+C:\Users\Flavius Mihailescu\Desktop\Question.domain4\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+C:\Users\Flavius Mihailescu\Desktop\Question.domain4\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb
