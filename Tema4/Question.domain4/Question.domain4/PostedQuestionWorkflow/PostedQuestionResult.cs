@@ -1,9 +1,12 @@
-﻿using System;
+﻿using CSharp.Choices;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Question.domain4.PostedQuestionWorkflow
 {
+    [AsChoice]
     public static partial class PostedQuestionResult
     {
         public interface IPostedQuestion
@@ -12,31 +15,34 @@ namespace Question.domain4.PostedQuestionWorkflow
 
         public class QuestionPosted : IPostedQuestion
         {
-            public QuestionPosted(int id)
-            {
-                Id = id;
-            }
+            public Guid QuestionId { get; private set; }
+            public string Body { get; private set; }
 
-            public int Id { get; }
+            public QuestionPosted(Guid questionId, string body)
+            {
+                QuestionId = questionId;
+                Body = body;
+            }
         }
 
         public class QuestionNotPosted : IPostedQuestion
         {
-            public QuestionNotPosted(string errorMessage)
-            {
-                ErrorMessage = errorMessage;
-            }
+            public string Reason { get; set; }
 
-            public string ErrorMessage { get; }
+            public QuestionNotPosted(string reason)
+            {
+                Reason = reason;
+            }
         }
         public class InvalidQuestion : IPostedQuestion
         {
-            public InvalidQuestion(PostedQuestionCmd cmd)
+            public IEnumerable<object> QuestionInvalid { get; private set; }
+
+            public InvalidQuestion(IEnumerable<string> errors)
             {
-                Cmd = cmd;
+                QuestionInvalid = errors.AsEnumerable();
             }
 
-            public PostedQuestionCmd Cmd { get; }
         }
 
 

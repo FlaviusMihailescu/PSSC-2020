@@ -1,0 +1,2 @@
+obj\Debug\netstandard2.0\PostedQuestionCmd.vslayg1b.generated.cs
+obj\Debug\netstandard2.0\PostedQuestionResult.8HiT0Opi.generated.cs

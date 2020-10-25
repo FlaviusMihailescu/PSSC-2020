@@ -2,6 +2,54 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "CodeGeneration.Roslyn.Attributes/0.7.63": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.0/CodeGeneration.Roslyn.Attributes.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/CodeGeneration.Roslyn.Attributes.dll": {}
+        }
+      },
+      "CodeGeneration.Roslyn.Tool/0.7.63": {
+        "type": "package",
+        "build": {
+          "build/CodeGeneration.Roslyn.Tool.props": {},
+          "build/CodeGeneration.Roslyn.Tool.targets": {}
+        }
+      },
+      "CSharp.Choices/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "CSharp.Choices.Attributes": "1.1.0",
+          "CSharp.Choices.Generators": "1.1.0",
+          "CodeGeneration.Roslyn.Tool": "0.7.63",
+          "NETStandard.Library": "1.6.1"
+        }
+      },
+      "CSharp.Choices.Attributes/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "CodeGeneration.Roslyn.Attributes": "0.7.63",
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.0/CSharp.Choices.Attributes.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/CSharp.Choices.Attributes.dll": {}
+        }
+      },
+      "CSharp.Choices.Generators/1.1.0": {
+        "type": "package",
+        "build": {
+          "build/CSharp.Choices.Generators.props": {},
+          "build/CSharp.Choices.Generators.targets": {}
+        }
+      },
       "Microsoft.Bcl.HashCode/1.1.0": {
         "type": "package",
         "compile": {
@@ -20,7 +68,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.3": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -38,11 +86,136 @@
     }
   },
   "libraries": {
+    "CodeGeneration.Roslyn.Attributes/0.7.63": {
+      "sha512": "0bJIHIUNVtJT7tih2oKJJ4GYL1+Btmk19vKZIyUHVEqyzT4eP7I6WtDJYqYhX4PhfNMXm2vXWta+y72rkioItg==",
+      "type": "package",
+      "path": "codegeneration.roslyn.attributes/0.7.63",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "codegeneration.roslyn.attributes.0.7.63.nupkg.sha512",
+        "codegeneration.roslyn.attributes.nuspec",
+        "lib/net20/CodeGeneration.Roslyn.Attributes.dll",
+        "lib/net20/CodeGeneration.Roslyn.Attributes.xml",
+        "lib/net40/CodeGeneration.Roslyn.Attributes.dll",
+        "lib/net40/CodeGeneration.Roslyn.Attributes.xml",
+        "lib/netstandard1.0/CodeGeneration.Roslyn.Attributes.dll",
+        "lib/netstandard1.0/CodeGeneration.Roslyn.Attributes.xml"
+      ]
+    },
+    "CodeGeneration.Roslyn.Tool/0.7.63": {
+      "sha512": "vVDnx1LYkfU/idZqe76uUgEQD+yic3Kvft6gthwQaqKl66RnMvTTtuW0NxQ84RPrgpLvF+5rku43eVNZWuQ3aQ==",
+      "type": "package",
+      "path": "codegeneration.roslyn.tool/0.7.63",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/CodeGeneration.Roslyn.Tool.props",
+        "build/CodeGeneration.Roslyn.Tool.targets",
+        "build/ToolPath.props",
+        "codegeneration.roslyn.tool.0.7.63.nupkg.sha512",
+        "codegeneration.roslyn.tool.nuspec",
+        "tools/any/CodeGeneration.Roslyn.Attributes.dll",
+        "tools/any/CodeGeneration.Roslyn.Attributes.pdb",
+        "tools/any/CodeGeneration.Roslyn.Attributes.xml",
+        "tools/any/CodeGeneration.Roslyn.Engine.dll",
+        "tools/any/CodeGeneration.Roslyn.Engine.pdb",
+        "tools/any/CodeGeneration.Roslyn.Engine.xml",
+        "tools/any/CodeGeneration.Roslyn.Tool.deps.json",
+        "tools/any/CodeGeneration.Roslyn.Tool.dll",
+        "tools/any/CodeGeneration.Roslyn.Tool.pdb",
+        "tools/any/CodeGeneration.Roslyn.Tool.runtimeconfig.json",
+        "tools/any/CodeGeneration.Roslyn.Tool.xml",
+        "tools/any/CodeGeneration.Roslyn.dll",
+        "tools/any/CodeGeneration.Roslyn.pdb",
+        "tools/any/CodeGeneration.Roslyn.xml",
+        "tools/any/McMaster.NETCore.Plugins.dll",
+        "tools/any/Microsoft.Bcl.AsyncInterfaces.dll",
+        "tools/any/Microsoft.CodeAnalysis.CSharp.dll",
+        "tools/any/Microsoft.CodeAnalysis.dll",
+        "tools/any/Microsoft.DotNet.PlatformAbstractions.dll",
+        "tools/any/Microsoft.Extensions.DependencyModel.dll",
+        "tools/any/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/any/System.Text.Encoding.CodePages.dll",
+        "tools/any/System.Text.Encodings.Web.dll",
+        "tools/any/System.Text.Json.dll",
+        "tools/any/Validation.dll",
+        "tools/any/cs/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/cs/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/de/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/de/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/es/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/es/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/fr/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/fr/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/it/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/it/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/ja/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/ja/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/ko/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/ko/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/pl/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/pl/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/pt-BR/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/ru/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/ru/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll",
+        "tools/any/tr/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/tr/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/zh-Hans/Microsoft.CodeAnalysis.resources.dll",
+        "tools/any/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll",
+        "tools/any/zh-Hant/Microsoft.CodeAnalysis.resources.dll"
+      ]
+    },
+    "CSharp.Choices/1.1.0": {
+      "sha512": "2UPGp6CPTe6niUhW5IggOzLFGZ7ClPQ6EHvBfb9GsOOVjPPb3m7kYHd/xVDB9qPYlC93pfzKb2Npi5+tIEbmXA==",
+      "type": "package",
+      "path": "csharp.choices/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "csharp.choices.1.1.0.nupkg.sha512",
+        "csharp.choices.nuspec"
+      ]
+    },
+    "CSharp.Choices.Attributes/1.1.0": {
+      "sha512": "fzoEPGQum5Z+V+PqERwPDw/pQyZlY0rY4J6uq9jaEJyycOtsXpzKVI1vAYmW32LSOFmiR0potDdfh852BzbHng==",
+      "type": "package",
+      "path": "csharp.choices.attributes/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "csharp.choices.attributes.1.1.0.nupkg.sha512",
+        "csharp.choices.attributes.nuspec",
+        "lib/netstandard1.0/CSharp.Choices.Attributes.dll"
+      ]
+    },
+    "CSharp.Choices.Generators/1.1.0": {
+      "sha512": "QUSGwdXjbfAdTIyCtQ9kYEjq80H0BFtHbwEgqrlGYIrsBUHq4WC/36qyP5VOmtmIaYWE8p2wiVPTrbVefWQLpg==",
+      "type": "package",
+      "path": "csharp.choices.generators/1.1.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/CSharp.Choices.Generators.props",
+        "build/CSharp.Choices.Generators.targets",
+        "csharp.choices.generators.1.1.0.nupkg.sha512",
+        "csharp.choices.generators.nuspec",
+        "tools/netcoreapp2.1/any/CSharp.Choices.Generators.deps.json",
+        "tools/netcoreapp2.1/any/CSharp.Choices.Generators.dll",
+        "tools/netcoreapp2.1/any/CSharp.Choices.Generators.pdb"
+      ]
+    },
     "Microsoft.Bcl.HashCode/1.1.0": {
-      "sha512": "yHq4Qo2VU4UYO9phf/XdXTyuUXyKGiEl5FwY7ugN/iUG/xsZhd2azVxrtMhiNM9JACDpm+73CqtEQFnO9Dd2SQ==",
+      "sha512": "J2G1k+u5unBV+aYcwxo94ip16Rkp65pgWFb0R6zwJipzWNMgvqlWeuI7/+R+e8bob66LnSG+llLJ+z8wI94cHg==",
       "type": "package",
       "path": "microsoft.bcl.hashcode/1.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -65,10 +238,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
@@ -78,14 +252,15 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+    "NETStandard.Library/2.0.3": {
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
-      "path": "netstandard.library/2.0.0",
+      "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
-        "build/NETStandard.Library.targets",
         "build/netstandard2.0/NETStandard.Library.targets",
         "build/netstandard2.0/ref/Microsoft.Win32.Primitives.dll",
         "build/netstandard2.0/ref/System.AppContext.dll",
@@ -202,15 +377,16 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.0.nupkg.sha512",
+        "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "CSharp.Choices >= 1.1.0",
       "Microsoft.Bcl.HashCode >= 1.1.0",
-      "NETStandard.Library >= 2.0.0"
+      "NETStandard.Library >= 2.0.3"
     ]
   },
   "packageFolders": {
@@ -219,15 +395,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Flavius Mihailescu\\Desktop\\Question.domain4\\Question.domain4\\Question.domain4.csproj",
+      "projectUniqueName": "C:\\Program Files\\Git\\PSSC-2020\\Tema4\\Question.domain4\\Question.domain4\\Question.domain4.csproj",
       "projectName": "Question.domain4",
-      "projectPath": "C:\\Users\\Flavius Mihailescu\\Desktop\\Question.domain4\\Question.domain4\\Question.domain4.csproj",
+      "projectPath": "C:\\Program Files\\Git\\PSSC-2020\\Tema4\\Question.domain4\\Question.domain4\\Question.domain4.csproj",
       "packagesPath": "C:\\Users\\Flavius Mihailescu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Flavius Mihailescu\\Desktop\\Question.domain4\\Question.domain4\\obj\\",
+      "outputPath": "C:\\Program Files\\Git\\PSSC-2020\\Tema4\\Question.domain4\\Question.domain4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -257,15 +430,19 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
-          "NETStandard.Library": {
-            "suppressParent": "All",
+          "CSharp.Choices": {
             "target": "Package",
-            "version": "2.0.0",
-            "autoReferenced": true
+            "version": "[1.1.0, )"
           },
           "Microsoft.Bcl.HashCode": {
             "target": "Package",
-            "version": "1.1.0"
+            "version": "[1.1.0, )"
+          },
+          "NETStandard.Library": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.0.3, )",
+            "autoReferenced": true
           }
         },
         "imports": [

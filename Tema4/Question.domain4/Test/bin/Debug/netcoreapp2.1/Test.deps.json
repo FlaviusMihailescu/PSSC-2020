@@ -1,0 +1,119 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "7bd7cd6f50466cc772f3c52998abfc63eeaca444"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Test/1.0.0": {
+        "dependencies": {
+          "CSharp.Choices": "1.1.0",
+          "Question.domain4": "1.0.0"
+        },
+        "runtime": {
+          "Test.dll": {}
+        }
+      },
+      "CodeGeneration.Roslyn.Attributes/0.7.63": {
+        "runtime": {
+          "lib/netstandard1.0/CodeGeneration.Roslyn.Attributes.dll": {
+            "assemblyVersion": "0.7.0.0",
+            "fileVersion": "0.7.63.30646"
+          }
+        }
+      },
+      "CodeGeneration.Roslyn.Tool/0.7.63": {},
+      "CSharp.Choices/1.1.0": {
+        "dependencies": {
+          "CSharp.Choices.Attributes": "1.1.0",
+          "CSharp.Choices.Generators": "1.1.0",
+          "CodeGeneration.Roslyn.Tool": "0.7.63"
+        }
+      },
+      "CSharp.Choices.Attributes/1.1.0": {
+        "dependencies": {
+          "CodeGeneration.Roslyn.Attributes": "0.7.63"
+        },
+        "runtime": {
+          "lib/netstandard1.0/CSharp.Choices.Attributes.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "CSharp.Choices.Generators/1.1.0": {},
+      "Microsoft.Bcl.HashCode/1.1.0": {
+        "runtime": {
+          "lib/netcoreapp2.1/Microsoft.Bcl.HashCode.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "Question.domain4/1.0.0": {
+        "dependencies": {
+          "CSharp.Choices": "1.1.0",
+          "Microsoft.Bcl.HashCode": "1.1.0"
+        },
+        "runtime": {
+          "Question.domain4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeGeneration.Roslyn.Attributes/0.7.63": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0bJIHIUNVtJT7tih2oKJJ4GYL1+Btmk19vKZIyUHVEqyzT4eP7I6WtDJYqYhX4PhfNMXm2vXWta+y72rkioItg==",
+      "path": "codegeneration.roslyn.attributes/0.7.63",
+      "hashPath": "codegeneration.roslyn.attributes.0.7.63.nupkg.sha512"
+    },
+    "CodeGeneration.Roslyn.Tool/0.7.63": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vVDnx1LYkfU/idZqe76uUgEQD+yic3Kvft6gthwQaqKl66RnMvTTtuW0NxQ84RPrgpLvF+5rku43eVNZWuQ3aQ==",
+      "path": "codegeneration.roslyn.tool/0.7.63",
+      "hashPath": "codegeneration.roslyn.tool.0.7.63.nupkg.sha512"
+    },
+    "CSharp.Choices/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2UPGp6CPTe6niUhW5IggOzLFGZ7ClPQ6EHvBfb9GsOOVjPPb3m7kYHd/xVDB9qPYlC93pfzKb2Npi5+tIEbmXA==",
+      "path": "csharp.choices/1.1.0",
+      "hashPath": "csharp.choices.1.1.0.nupkg.sha512"
+    },
+    "CSharp.Choices.Attributes/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fzoEPGQum5Z+V+PqERwPDw/pQyZlY0rY4J6uq9jaEJyycOtsXpzKVI1vAYmW32LSOFmiR0potDdfh852BzbHng==",
+      "path": "csharp.choices.attributes/1.1.0",
+      "hashPath": "csharp.choices.attributes.1.1.0.nupkg.sha512"
+    },
+    "CSharp.Choices.Generators/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QUSGwdXjbfAdTIyCtQ9kYEjq80H0BFtHbwEgqrlGYIrsBUHq4WC/36qyP5VOmtmIaYWE8p2wiVPTrbVefWQLpg==",
+      "path": "csharp.choices.generators/1.1.0",
+      "hashPath": "csharp.choices.generators.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.Bcl.HashCode/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J2G1k+u5unBV+aYcwxo94ip16Rkp65pgWFb0R6zwJipzWNMgvqlWeuI7/+R+e8bob66LnSG+llLJ+z8wI94cHg==",
+      "path": "microsoft.bcl.hashcode/1.1.0",
+      "hashPath": "microsoft.bcl.hashcode.1.1.0.nupkg.sha512"
+    },
+    "Question.domain4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
