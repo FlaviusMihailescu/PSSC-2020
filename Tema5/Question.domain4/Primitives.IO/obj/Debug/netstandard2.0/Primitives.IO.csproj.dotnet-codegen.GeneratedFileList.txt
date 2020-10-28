@@ -1,0 +1,12 @@
+obj\Debug\netstandard2.0\Adapter.XVMdVQMv.generated.cs
+obj\Debug\netstandard2.0\EffectAttribute.iZse5T4L.generated.cs
+obj\Debug\netstandard2.0\MockEffectAttribute.QjNfP161.generated.cs
+obj\Debug\netstandard2.0\IInterpreter.wk9kYh-R.generated.cs
+obj\Debug\netstandard2.0\InputGenerator.xrDTOF3U.generated.cs
+obj\Debug\netstandard2.0\LiveInterpreterAsync.M4M7O6ei.generated.cs
+obj\Debug\netstandard2.0\EffectOverride.t6m71Pwv.generated.cs
+obj\Debug\netstandard2.0\IExecutionContext.j1EB6NHR.generated.cs
+obj\Debug\netstandard2.0\LiveExecutionContext.wApQq1GI.generated.cs
+obj\Debug\netstandard2.0\MockContext.-3pKstTb.generated.cs
+obj\Debug\netstandard2.0\Port.6EnyqFyo.generated.cs
+obj\Debug\netstandard2.0\PortExt.3mTl0Fcp.generated.cs

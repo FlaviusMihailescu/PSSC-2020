@@ -1,0 +1,55 @@
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.dotnet-codegen.rsp
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Program.FZXpolD-.generated.cs
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.dotnet-codegen.GeneratedFileList.txt
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Question.domain4.dll
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Question.domain4.pdb
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\Program Files\Git\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.pdb
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Question.domain4.dll
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Question.domain4.pdb
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.dotnet-codegen.rsp
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Program.FZXpolD-.generated.cs
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.dotnet-codegen.GeneratedFileList.txt
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\Flavius Mihailescu\PSSC-2020\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.pdb
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.dll
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Test.pdb
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Question.domain4.dll
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\bin\Debug\netcoreapp2.1\Question.domain4.pdb
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.dll
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.pdb
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.dotnet-codegen.rsp
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Program.FZXpolD-.generated.cs
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\Test.csproj.dotnet-codegen.GeneratedFileList.txt
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\.NETCoreApp,Version=v2.1.AssemblyAttributes.ma6YObQB.generated.cs
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.niqydn6q.generated.cs
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.iV0Qq60+.generated.cs
+E:\Scoala\Anul4\PPSC\Tema4\Question.domain4\Test\obj\Debug\netcoreapp2.1\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.sxg9w-n7.generated.cs
