@@ -1,0 +1,69 @@
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojAssemblyReference.cache
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.rsp
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\Adapter.XVMdVQMv.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\EffectAttribute.iZse5T4L.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\MockEffectAttribute.QjNfP161.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\IInterpreter.wk9kYh-R.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\InputGenerator.xrDTOF3U.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\LiveInterpreterAsync.M4M7O6ei.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\EffectOverride.t6m71Pwv.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\IExecutionContext.j1EB6NHR.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\LiveExecutionContext.wApQq1GI.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\MockContext.-3pKstTb.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\Port.6EnyqFyo.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\PortExt.3mTl0Fcp.generated.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.GeneratedFileList.txt
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojAssemblyReference.cache
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.rsp
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\Adapter.XVMdVQMv.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\EffectAttribute.iZse5T4L.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\MockEffectAttribute.QjNfP161.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\IInterpreter.wk9kYh-R.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\InputGenerator.xrDTOF3U.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\LiveInterpreterAsync.M4M7O6ei.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\EffectOverride.t6m71Pwv.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\IExecutionContext.j1EB6NHR.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\LiveExecutionContext.wApQq1GI.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\MockContext.-3pKstTb.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\Port.6EnyqFyo.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\PortExt.3mTl0Fcp.generated.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.GeneratedFileList.txt
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb
+E:\Scoala\Anul4\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+E:\Scoala\Anul4\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+E:\Scoala\Anul4\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojAssemblyReference.cache
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.rsp
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\Adapter.XVMdVQMv.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\EffectAttribute.iZse5T4L.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\MockEffectAttribute.QjNfP161.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\IInterpreter.wk9kYh-R.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\InputGenerator.xrDTOF3U.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\LiveInterpreterAsync.M4M7O6ei.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\EffectOverride.t6m71Pwv.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\IExecutionContext.j1EB6NHR.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\LiveExecutionContext.wApQq1GI.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\MockContext.-3pKstTb.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\Port.6EnyqFyo.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\PortExt.3mTl0Fcp.generated.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.GeneratedFileList.txt
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+E:\Scoala\Anul4\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb

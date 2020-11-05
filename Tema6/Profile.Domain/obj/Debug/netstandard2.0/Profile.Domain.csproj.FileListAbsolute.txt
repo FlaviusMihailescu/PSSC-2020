@@ -1,0 +1,36 @@
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\bin\Debug\netstandard2.0\Profile.Domain.deps.json
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\bin\Debug\netstandard2.0\Profile.Domain.dll
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\bin\Debug\netstandard2.0\Profile.Domain.pdb
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\bin\Debug\netstandard2.0\Primitives.IO.dll
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\bin\Debug\netstandard2.0\Primitives.IO.pdb
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.csprojAssemblyReference.cache
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.AssemblyInfoInputs.cache
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.AssemblyInfo.cs
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.csproj.CopyComplete
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.dll
+C:\Users\Flavius Mihailescu\Desktop\PSSC-2020-master Iercan\exemple\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.pdb
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\bin\Debug\netstandard2.0\Profile.Domain.deps.json
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\bin\Debug\netstandard2.0\Profile.Domain.dll
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\bin\Debug\netstandard2.0\Profile.Domain.pdb
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\bin\Debug\netstandard2.0\Primitives.IO.dll
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\bin\Debug\netstandard2.0\Primitives.IO.pdb
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.csprojAssemblyReference.cache
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.csproj.CoreCompileInputs.cache
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.AssemblyInfoInputs.cache
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.AssemblyInfo.cs
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.csproj.CopyComplete
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.dll
+E:\Scoala\Anul4\PPSC\Lucru Laborator 29.10.2020 ReplayQuestion\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.pdb
+E:\Scoala\Anul4\L05\Profile.Domain\bin\Debug\netstandard2.0\Profile.Domain.deps.json
+E:\Scoala\Anul4\L05\Profile.Domain\bin\Debug\netstandard2.0\Profile.Domain.dll
+E:\Scoala\Anul4\L05\Profile.Domain\bin\Debug\netstandard2.0\Profile.Domain.pdb
+E:\Scoala\Anul4\L05\Profile.Domain\bin\Debug\netstandard2.0\Primitives.IO.dll
+E:\Scoala\Anul4\L05\Profile.Domain\bin\Debug\netstandard2.0\Primitives.IO.pdb
+E:\Scoala\Anul4\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.csprojAssemblyReference.cache
+E:\Scoala\Anul4\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.csproj.CoreCompileInputs.cache
+E:\Scoala\Anul4\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.AssemblyInfoInputs.cache
+E:\Scoala\Anul4\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.AssemblyInfo.cs
+E:\Scoala\Anul4\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.csproj.CopyComplete
+E:\Scoala\Anul4\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.dll
+E:\Scoala\Anul4\L05\Profile.Domain\obj\Debug\netstandard2.0\Profile.Domain.pdb
